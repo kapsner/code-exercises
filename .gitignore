@@ -1,0 +1,14 @@
+/*
+/*/*
+!.gitignore
+
+!deep-learning
+!deep-learning/classification
+!deep-learning/classification
+
+!*.py
+!*.ipynb
+!requirements.txt
+
+lightning_logs
+__pycache__

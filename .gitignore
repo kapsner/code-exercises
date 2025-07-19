@@ -5,6 +5,7 @@
 !deep-learning
 !deep-learning/classification
 !deep-learning/classification
+!regression/
 
 !*.py
 !*.ipynb

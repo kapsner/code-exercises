@@ -4,8 +4,8 @@
 
 !deep-learning
 !deep-learning/classification
-!deep-learning/classification
 !regression/
+!bayes-theorem/
 
 !*.py
 !*.ipynb

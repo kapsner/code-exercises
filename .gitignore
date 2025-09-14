@@ -6,6 +6,7 @@
 !deep-learning/classification
 !regression/
 !bayes-theorem/
+!misc/
 
 !*.py
 !*.ipynb
